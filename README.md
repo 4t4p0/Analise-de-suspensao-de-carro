@@ -1,4 +1,4 @@
-# Analise da um quarto de suspensão de um carro
+# Análise da um quarto de suspensão de um carro
 🎯 Objetivos
 Modelar matematicamente um sistema de suspensão veicular
 Simular o comportamento dinâmico da suspensão
@@ -9,6 +9,7 @@ O modelo de 1/4 de veículo considera:
 - Mola (rigidez)
 - Amortecedor
 - Excitação externa (perfil da pista)
+
 Esse modelo permite estudar:
 Deslocamento
 Velocidade
