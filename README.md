@@ -1,20 +1,24 @@
 # Análise da um quarto de suspensão de um carro
-🎯 Objetivos
-Modelar matematicamente um sistema de suspensão veicular
-Simular o comportamento dinâmico da suspensão
-Analisar a influência do amortecimento e da rigidez da mola
-⚙️ Modelo Utilizado
-O modelo de 1/4 de veículo considera:
-- Massa suspensa (parte da carroceria)
-- Mola (rigidez)
-- Amortecedor
-- Excitação externa (perfil da pista)
 
-Esse modelo permite estudar:
-Deslocamento
-Velocidade
-Aceleração da massa suspensa
-Conforto e estabilidade do veículo
-🛠️ Linguagens Utilizadas
-Java — implementação da simulação utilizando Programação Orientada a Objetos
-MATLAB — apoio em cálculos e análise e comparação de resultados
+Parte da análise de confortabilidade de um veículo se passa por analisar o quão estável o veículo é quando passa por terrenos sinuosos. Para isso, deve-se analisar o sistema de suspensão e seus componentes para que o carro obtenha a maior estabilidade possível.
+
+<img width="369" height="663" alt="QUARTO-DE-CARRO-PADRÃO" src="https://github.com/user-attachments/assets/99348af4-6f26-4188-810f-7ebd50e0728c" /> Sistema de massa
+
+## Objetivo
+
+Partindo de um modelo já testado em MATLAB, tentar aplicador o modelo do  
+
+## Tecnologias Utilizadas
+
+- Linguagem: **Java, MATLAB**
+- Biblioteca: **JavaFX**
+
+## Conceitos aplicados
+
+-
+-
+
+## Como foi feito
+
+## Como usar
+
