@@ -36,7 +36,7 @@ Matemática
 
 ## Como foi feito
 
-<img width="990" height="620" alt="UML1 2" src="https://github.com/user-attachments/assets/c043504a-dc4e-4549-b41d-6901200f49db" />
+<img width="495" height="310" alt="UML1 2" src="https://github.com/user-attachments/assets/c043504a-dc4e-4549-b41d-6901200f49db" />
 
 Criou-se um UML básico, para ter uma base para quais seriam as classes usadas no programa. A partir daí, foram criadas as classes principais, e os atributos de cada uma dessas classes. A maioria das classes tem algum tipo de relação com o sistema de suspensão, no qual serão feitos todos os cálculos do programa.
 Em termos de cálculo, a análise de um sistema dinâmico feita no MATLAB é mais fácil, já que existem funções próprias para analisar um sistema dinâmico que não existem no Java. Dessa forma, todo cálculo feito em Java foi desenvolvido do zero, criando a matriz de 2 ordem do sistema de suspensão (0 ordem - Deslocamento | 1 ordem - Velocidade | 2 ordem - Aceleração[Todas variaveis referentes a massa suspensa]) e aplicando as condições de contorno do problema.
