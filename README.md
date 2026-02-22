@@ -49,12 +49,12 @@ O programa possui uma interface básica na qual o usuario digita os valores refe
 
 Depois disso, o programa se inicia gerando gráficos do deslocamento da massa suspensa, deslocamento da massa não suspensa e aceleração da massa suspensa em função do tempo. A partir daí, é necessário fazer uma análise dos gráficos para ter uma boa noção dos resultados. Abaixo estão alguns exemplos criados com dados de carros de verdade, em laranja estão os gráficos gerados em Java, em azul estão os gráficos gerados pelo MATLAB (apenas para comparação dos resultados).
 
-<img width="1204" height="570" alt="image" src="https://github.com/user-attachments/assets/a0c8749e-2caa-421e-bd4a-39d37d151934" />
+<img width="600" height="285" alt="image" src="https://github.com/user-attachments/assets/a0c8749e-2caa-421e-bd4a-39d37d151934" />
 
-<img width="1199" height="572" alt="image" src="https://github.com/user-attachments/assets/c9001b8e-39eb-4ee0-a67c-acea21c4128b" />
+<img width="600" height="285" alt="image" src="https://github.com/user-attachments/assets/c9001b8e-39eb-4ee0-a67c-acea21c4128b" />
 
-<img width="1201" height="570" alt="image" src="https://github.com/user-attachments/assets/4ce5d75d-b61d-417d-b5b5-36432cd5c346" />
+<img width="600" height="285" alt="image" src="https://github.com/user-attachments/assets/4ce5d75d-b61d-417d-b5b5-36432cd5c346" />
 
-<img width="1199" height="569" alt="image" src="https://github.com/user-attachments/assets/e74c0a10-67b8-41cd-be37-01a7f0ab80bf" />
+<img width="600" height="285" alt="image" src="https://github.com/user-attachments/assets/e74c0a10-67b8-41cd-be37-01a7f0ab80bf" />
 
-<img width="1200" height="570" alt="image" src="https://github.com/user-attachments/assets/f759c850-3d53-4e8d-ac67-b7efbf0d32dc" />
+<img width="600" height="285" alt="image" src="https://github.com/user-attachments/assets/f759c850-3d53-4e8d-ac67-b7efbf0d32dc" />
