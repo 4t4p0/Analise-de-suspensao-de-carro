@@ -2,7 +2,7 @@
 
 Parte da análise de confortabilidade de um veículo se passa por analisar o quão estável o veículo é quando passa por terrenos sinuosos. Para isso, deve-se analisar o sistema de suspensão e seus componentes para que o carro obtenha a maior estabilidade possível.
 
-<img width="369" height="663" alt="QUARTO-DE-CARRO-PADRÃO" src="https://github.com/user-attachments/assets/99348af4-6f26-4188-810f-7ebd50e0728c" /> 
+<img width="185" height="331" alt="QUARTO-DE-CARRO-PADRÃO" src="https://github.com/user-attachments/assets/99348af4-6f26-4188-810f-7ebd50e0728c" /> 
 Exemplificação do sistema de suspenção abstraido, contendo:
 - Massa suspensa [Ms](Chassi do carro)
 - Massa não suspensa [Mu](Massa do sistema de suspensão)
@@ -44,7 +44,7 @@ Em termos de cálculo, a análise de um sistema dinâmico feita no MATLAB é mai
 
 O programa possui uma interface básica na qual o usuario digita os valores referentes ao sistema de suspensão
 
-<img width="677" height="456" alt="image" src="https://github.com/user-attachments/assets/cc864453-b0b5-4461-b893-435569c69371" />
+<img width="337" height="228" alt="image" src="https://github.com/user-attachments/assets/cc864453-b0b5-4461-b893-435569c69371" />
 
 Depois disso, o programa se inicia gerando gráficos do deslocamento da massa suspensa, deslocamento da massa não suspensa e aceleração da massa suspensa em função do tempo. A partir daí, é necessário fazer uma análise dos gráficos para ter uma boa noção dos resultados. Abaixo estão alguns exemplos criados com dados de carros de verdade, em laranja estão os gráficos gerados em Java, em azul estão os gráficos gerados pelo MATLAB (apenas para comparação dos resultados).
 
