@@ -44,7 +44,7 @@ Em termos de cálculo, a análise de um sistema dinâmico feita no MATLAB é mai
 
 O programa possui uma interface básica na qual o usuario digita os valores referentes ao sistema de suspensão
 
-<img width="1354" height="911" alt="image" src="https://github.com/user-attachments/assets/cc864453-b0b5-4461-b893-435569c69371" />
+<img width="677" height="456" alt="image" src="https://github.com/user-attachments/assets/cc864453-b0b5-4461-b893-435569c69371" />
 
 Depois disso, o programa se inicia gerando gráficos do deslocamento da massa suspensa, deslocamento da massa não suspensa e aceleração da massa suspensa em função do tempo. A partir daí, é necessário fazer uma análise dos gráficos para ter uma boa noção dos resultados. Abaixo estão alguns exemplos criados com dados de carros de verdade, em laranja estão os gráficos gerados em Java, em azul estão os gráficos gerados pelo MATLAB (apenas para comparação dos resultados).
 
