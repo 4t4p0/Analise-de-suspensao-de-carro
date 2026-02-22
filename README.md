@@ -3,6 +3,7 @@
 Parte da análise de confortabilidade de um veículo se passa por analisar o quão estável o veículo é quando passa por terrenos sinuosos. Para isso, deve-se analisar o sistema de suspensão e seus componentes para que o carro obtenha a maior estabilidade possível.
 
 <img width="185" height="331" alt="QUARTO-DE-CARRO-PADRÃO" src="https://github.com/user-attachments/assets/99348af4-6f26-4188-810f-7ebd50e0728c" /> 
+
 Exemplificação do sistema de suspenção abstraido, contendo:
 - Massa suspensa [Ms](Chassi do carro)
 - Massa não suspensa [Mu](Massa do sistema de suspensão)
